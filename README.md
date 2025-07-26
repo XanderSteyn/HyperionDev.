@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/XanderSteyn/xandersteyn/blob/main/IGNORE/Headers/Tasks/Variables%20and%20Control%20Structures.svg" alt="Variables and Control Structures"/><br>
+  <img src="https://github.com/XanderSteyn/xandersteyn/blob/main/IGNORE/Headers/Tasks/Variables%20and%20Control%20Structures.svg" alt="Variables and Control Structures - CLI Investment & Bond Calculator"/><br>
 </h1>
 
 <img src="https://github.com/XanderSteyn/xandersteyn/blob/main/IGNORE/Headers/Repos/Features.svg" alt="Features" height="25px"/>
