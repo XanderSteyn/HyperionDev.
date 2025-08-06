@@ -13,6 +13,35 @@
 
 <h1></h1>
 
+<img src="https://github.com/XanderSteyn/xandersteyn/blob/main/IGNORE/Headers/How%20It%20Works.svg" alt="How It Works" height="25px"/>
+
+- **Investment Calculator:**
+
+  - *Simple Interest:*  
+    `A = P × (1 + r × t)`
+
+  - *Compound Interest:*  
+    `A = P × (1 + r) ^ t`
+
+  *Where:*  
+  `P` = principal amount  
+  `r` = annual interest rate (decimal)  
+  `t` = number of years invested
+
+- **Bond Calculator:**
+
+  - *Monthly Repayment:*  
+    `repayment = (i × P) / (1 - (1 + i) ^ (-n))`
+
+  *Where:*  
+  `P` = present value (house price)  
+  `i` = monthly interest rate (decimal)  
+  `n` = number of months to repay
+
+The program validates all user inputs to ensure positive numeric values and guides the user through the calculation process with clear prompts.
+
+<h1></h1>
+
 <img src="https://github.com/XanderSteyn/xandersteyn/blob/main/IGNORE/Headers/Repos/Technologies%20Used.svg" alt="Technologies Used" height="30px"/>
 
 - **Python** – Core programming language
