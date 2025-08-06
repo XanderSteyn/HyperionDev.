@@ -38,8 +38,6 @@
   `i` = monthly interest rate (decimal)  
   `n` = number of months to repay
 
-The program validates all user inputs to ensure positive numeric values and guides the user through the calculation process with clear prompts.
-
 <h1></h1>
 
 <img src="https://github.com/XanderSteyn/xandersteyn/blob/main/IGNORE/Headers/Repos/Technologies%20Used.svg" alt="Technologies Used" height="30px"/>
